@@ -4,6 +4,9 @@
 #pragma hdrstop
 
 #include "FenetreEdition.h"
+
+//test
+
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
@@ -14,3 +17,4 @@ __fastcall TFEdition::TFEdition(TComponent* Owner)
 {
 }
 //---------------------------------------------------------------------------
+
